@@ -1,2 +1,2 @@
-# Data-Structures
-Data Structures related programs
+# Arrays
+Arrays related programs
